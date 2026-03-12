@@ -26,7 +26,7 @@ function Home() {
       <div className="reviews">
 
         <div className="reviewCard">
-          <h3>Rahul Patel</h3>
+          <h3>Jeel Patel</h3>
           <p>
             This website design is very clean and modern.
             It works perfectly on my phone and laptop.
