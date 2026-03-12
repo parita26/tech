@@ -11,7 +11,7 @@ function Home() {
   return (
     <section className="home" id="home">
 
-      <h1>Build Modern Websites</h1>
+      <h1>welcome to website</h1>
 
       <p>
         We create beautiful responsive websites for businesses,
